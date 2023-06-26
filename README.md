@@ -3,7 +3,7 @@
 
 Вы на странице Frontend разработчика.\
 Меня зовут Алексей. Буду рад вашей обратной связи.\
-[button url="https://t.me/AlexWebArt"]\
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)]([https://github.com/user/repository/subscription](https://t.me/AlexWebArt))\
 Приятно познакомиться!
 
 ## Мои проекты
