@@ -3,7 +3,7 @@
 
 Вы на странице Frontend разработчика.\
 Меня зовут Алексей. Буду рад вашей обратной связи.\
-[![telegramLink][telegramButton.png]][https://t.me/AlexWebArt]\
+[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)
 Приятно познакомиться!
 
 ## Мои проекты
