@@ -2,11 +2,12 @@
 ===
 
 Вы на странице Frontend разработчика.\
-Меня зовут Алексей. Буду рад ваше обратной связи.\
-Telegram: @AlexWebArt\
-Приятно познакомиться!\
+Меня зовут Алексей. Буду рад вашей обратной связи.\
+[button url="https://t.me/AlexWebArt"]\
+Приятно познакомиться!
 
 ## Мои проекты
+
 
 <!--
 **AlexWEBArt/AlexWEBArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
