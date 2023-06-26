@@ -4,6 +4,7 @@
 Вы на странице Frontend разработчика.\
 Меня зовут Алексей. Буду рад вашей обратной связи.
 
+[![linkedinLink](linkedinButton.png)](https://www.linkedin.com/in/aleksey-artemchuk-07858525a)
 [![emailLink](emailButton.png)](mailto:gelusiv@gmail.com)
 [![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)
 
