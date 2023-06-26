@@ -17,6 +17,10 @@ GIT, npm/yarn,\
 
 ## Мои проекты
 
+Репозитории:
+
+[Интернет магазин](https://github.com/AlexWEBArt/ra-online-store)
+
 
 <!--
 **AlexWEBArt/AlexWEBArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
