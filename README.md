@@ -2,9 +2,10 @@
 ===
 
 Вы на странице Frontend разработчика.\
+
 Меня зовут Алексей. Буду рад вашей обратной связи.\
-[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)
-Приятно познакомиться!
+[![emailLink](emailButton.png)](gelusiv@gmail.com)\
+[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)\
 
 ## Мои проекты
 
