@@ -2,10 +2,18 @@
 ===
 
 Вы на странице Frontend разработчика.\
+Меня зовут Алексей. Буду рад вашей обратной связи.
 
-Меня зовут Алексей. Буду рад вашей обратной связи.\
 [![emailLink](emailButton.png)](mailto:gelusiv@gmail.com)
-[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)\
+[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)
+
+## Мой стек
+
+Html, CSS, JavaScript,\
+React, Redux, RxJs,\
+Node.js (Koa, Express),\
+GIT, npm/yarn,\
+Английский — A2
 
 ## Мои проекты
 
