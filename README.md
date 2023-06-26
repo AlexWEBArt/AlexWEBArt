@@ -3,7 +3,7 @@
 
 Вы на странице Frontend разработчика.\
 Меня зовут Алексей. Буду рад вашей обратной связи.\
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)]([https://github.com/user/repository/subscription](https://t.me/AlexWebArt))\
+[![](https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign)]([https://github.com/user/repository/subscription](https://t.me/AlexWebArt))\
 Приятно познакомиться!
 
 ## Мои проекты
