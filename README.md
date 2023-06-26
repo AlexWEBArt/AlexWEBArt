@@ -5,7 +5,7 @@
 
 Меня зовут Алексей. Буду рад вашей обратной связи.\
 [![emailLink](emailButton.png)](mailto:gelusiv@gmail.com)
-[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)\
+[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)
 
 ## Мои проекты
 
