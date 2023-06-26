@@ -1,7 +1,7 @@
 Приветствую!
 ===
 
-Вы на странице Frontend разработчика.\
+Вы на странице Frontend разработчика.
 
 Меня зовут Алексей. Буду рад вашей обратной связи.\
 [![emailLink](emailButton.png)](mailto:gelusiv@gmail.com)
