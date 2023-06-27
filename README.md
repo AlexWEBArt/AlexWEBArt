@@ -4,9 +4,9 @@
 Вы на странице Frontend разработчика.\
 Меня зовут Алексей. Буду рад вашей обратной связи.
 
+[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)
 [![linkedinLink](linkedinButton.png)](https://www.linkedin.com/in/aleksey-artemchuk-07858525a)
 [![emailLink](emailButton.png)](mailto:gelusiv@gmail.com)
-[![telegramLink](telegramButton.png)](https://t.me/AlexWebArt)
 
 ## Мой стек
 
@@ -20,8 +20,14 @@ GIT, npm/yarn,\
 
 Репозитории:
 
-[Интернет магазин](https://github.com/AlexWEBArt/ra-online-store)
+[Интернет магазин](https://github.com/AlexWEBArt/ra-online-store)\
+[IMDbSerchAgent](https://github.com/AlexWEBArt/ra-redux-toolkit-ts)\
+[Лента новостей](https://github.com/AlexWEBArt/ra-redux-observable)\
+[Мировое время](https://alexwebart.github.io/ra-world-watches)\
+[Cloud Dashboard](https://github.com/AlexWEBArt/AHJ-Cloud-Dashboard-fronend)
 
+Ссылка на интерфейсы:\
+https://taplink.cc/alexwebart
 
 <!--
 **AlexWEBArt/AlexWEBArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
