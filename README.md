@@ -23,6 +23,7 @@ GIT, npm/yarn,\
 [Интернет магазин](https://github.com/AlexWEBArt/ra-online-store)\
 [IMDbSerchAgent](https://github.com/AlexWEBArt/ra-redux-toolkit-ts)\
 [Лента новостей](https://github.com/AlexWEBArt/ra-redux-observable)\
+[Стол заказа бургеров](https://github.com/AlexWEBArt/burger-angular)\
 [Мировое время](https://alexwebart.github.io/ra-world-watches)\
 [Cloud Dashboard](https://github.com/AlexWEBArt/AHJ-Cloud-Dashboard-fronend)
 
