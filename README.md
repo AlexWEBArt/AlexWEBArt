@@ -28,8 +28,6 @@ GIT, npm/yarn,\
 [Cloud Dashboard](https://github.com/AlexWEBArt/AHJ-Cloud-Dashboard-fronend)\
 [Чат](https://github.com/AlexWEBArt/AHJ-Chat-frontend)
 
-Ссылка на интерфейсы:\
-https://taplink.cc/alexwebart
 
 <!--
 **AlexWEBArt/AlexWEBArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
