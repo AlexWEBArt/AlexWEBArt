@@ -25,7 +25,7 @@ GIT, npm/yarn,\
 [Клиент и Админ панель кинотеатра](https://github.com/AlexWEBArt/go2cinema)\
 [Стол заказа бургеров](https://github.com/AlexWEBArt/burger-angular)\
 [Мировое время](https://alexwebart.github.io/ra-world-watches)\
-[Cloud Dashboard](https://github.com/AlexWEBArt/AHJ-Cloud-Dashboard-fronend)
+[Cloud Dashboard](https://github.com/AlexWEBArt/AHJ-Cloud-Dashboard-fronend)\
 [Чат](https://github.com/AlexWEBArt/AHJ-Chat-frontend)
 
 Ссылка на интерфейсы:\
