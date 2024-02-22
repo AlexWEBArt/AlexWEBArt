@@ -11,10 +11,10 @@
 ## Мой стек
 
 Html, CSS, JavaScript,\
-React, Redux, RxJs,\
+React, React-Native, Redux, RxJs,\
 Node.js (Koa, Express),\
 GIT, npm/yarn,\
-Английский — A2
+Английский — B1
 
 ## Мои проекты
 
