@@ -12,6 +12,7 @@
 
 Html, CSS, JavaScript,\
 React, React-Native, Redux, RxJs,\
+Bootstrap, Prime, Ant-design, MUI, Tailwind,\
 Node.js (Koa, Express),\
 GIT, npm/yarn,\
 Английский — B1
