@@ -24,7 +24,7 @@ GIT, npm/yarn,\
 [IMDbSerchAgent](https://github.com/AlexWEBArt/ra-redux-toolkit-ts)\
 [Клиент и Админ панель кинотеатра](https://github.com/AlexWEBArt/go2cinema)\
 [Стол заказа бургеров](https://github.com/AlexWEBArt/burger-angular)\
-[Мировое время](https://alexwebart.github.io/ra-world-watches)\
+[Мировое время](https://github.com/AlexWEBArt/ra-world-watches)\
 [Cloud Dashboard](https://github.com/AlexWEBArt/AHJ-Cloud-Dashboard-fronend)\
 [Чат](https://github.com/AlexWEBArt/AHJ-Chat-frontend)
 
